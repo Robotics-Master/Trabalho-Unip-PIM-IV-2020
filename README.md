@@ -3,10 +3,15 @@ Projeto para programa de Pacientes com Covid
 
 # Integrantes
 André Ales de Almeida Viana – 2093135
+
 Karina Aparecida Moura de Souza – 2093194
+
 Luana Alves de Alencar – 2096185
+
 Roberto Valença Montoni – 0564312
+
 Ronaldo Rodrigues Moreira Junior – 2094088
+
 
 # Problema a ser resolvido com o Projeto
 O objetivo deste projeto será desenvolver um sistema em C (utilizando o codeblocks – disponível de forma gratuita no seguinte link: http://www.codeblocks.org/) para ser utilizado por Hospitais, UBS, UPAS e Pronto Socorros para cadastrar os pacientes que forem diagnosticados com Covid-19 e precisam de um acompanhamento e monitoramento.
