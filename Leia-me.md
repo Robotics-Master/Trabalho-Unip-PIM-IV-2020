@@ -53,4 +53,4 @@ git clone https://github.com/Robotics-Master/Trabalho-Unip-PIM-IV-2020.git
 
 # Como Instalar o Prorama
 
-Digite no seu browser "https://github.com/Robotics-Master/Trabalho-Unip-PIM-IV-2020/blob/main/ProgramaCovid.exe", e faça o Download do arquivo!
+Digite no seu browser "https://github.com/Robotics-Master/Trabalho-Unip-PIM-IV-2020/blob/main/ProgramaCovid.exe", e faça o Download do arquivo, clique em abrir, em seguida em executar, Pronto, agora é só usar!
