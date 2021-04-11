@@ -37,12 +37,16 @@ O sistema deverá calcular a idade e verificar se o paciente possui alguma comor
 # Como Compilar e Testar
 1 - Instale o CodeBlocks no seu sistema. Você pode acessar o site oficial da IDE em: http://www.codeblocks.org/
 
+
 Caso esteja usando uma distribuição linux baseada no Ubuntu você pode instalar o CodeBlocks executando o comando abaixo:
 
+
 sudo apt install codeblocks --install-suggests
+
 2 - Clone este repositório. No Linux, abra o terminal e digite:
 
 git clone https://github.com/Robotics-Master/Trabalho-Unip-PIM-IV-2020.git
+
 3 - No seu gerenciador de arquivos, navegue até o diretório Trabalho-Unip-PIM-IV-2020 e abra o arquivo 'ProgramaCovid' utilizando o CodeBlocks. O projeto será aberto.
 
 4 - Para executar, com o projeto aberto no CodeBlocks, vá em 'Build > Build and Run' e o programa será executado (Compilado) para testar!
