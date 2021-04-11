@@ -51,7 +51,7 @@ git clone https://github.com/Robotics-Master/Trabalho-Unip-PIM-IV-2020.git
 
 4 - Para executar, com o projeto aberto no CodeBlocks, vá em 'Build > Build and Run' e o programa será executado (Compilado) para testar!
 
-# Como Instalar o Prorama
+# Como Instalar o Programa
 
 Digite no seu browser "https://github.com/Robotics-Master/Trabalho-Unip-PIM-IV-2020/blob/main/ProgramaCovid.exe", e faça o Download do arquivo, clique em abrir, em seguida em executar, ele irá abrir uma vez. Depois quando for usar é só ir no seu gerenciador de arquivos, navegue até a pasta "Trabalho-Unip-PIM-IV-2020" e abra o arquivo 'ProgramaCovid.exe' e o programa será aberto, se preferir crie um atalho no seu Desktop, clicando com o botao direito do Mouse, enviar para, Área de Trabalho. Está Pronto!
 
