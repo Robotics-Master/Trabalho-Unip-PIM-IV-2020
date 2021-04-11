@@ -1,0 +1,16 @@
+
+Nome: Roberto
+CPF: 123.123.123-43
+Data de nascimento: 20/5/1975
+Telefone: (19)99999-9999
+CEP: 11.111-111
+Rua: Loste
+Número: 23
+Bairro: Camare
+Cidade: Lins
+Estado: SP
+Email: roberto@mail.com
+Data do diagnostico: 11/04/2021
+Comorbidade: SIM
+Quais comorbidade(s)? Diabetes e Pressao Alta
+
