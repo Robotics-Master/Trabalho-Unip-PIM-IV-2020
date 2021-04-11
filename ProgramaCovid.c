@@ -9,7 +9,7 @@ int main(void) {
 
     char login[15] = "Covid";
     char login1[15];
-    char senha[15] = "1234";
+    char senha[15] = "Covid";
     char senha1[15];
     char res[15] = "SIM";
     char logado;
