@@ -1,0 +1,4 @@
+Universidade Paulista EAD
+Criação de um sistema em C para cadastro de pacientes diagnosticados com civid-19
+Login: Covid
+Senha: Covid
