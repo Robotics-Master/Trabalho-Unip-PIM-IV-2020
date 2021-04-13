@@ -4,8 +4,6 @@ Projeto para programa de Pacientes com Covid
 # Integrantes
 André Ales de Almeida Viana – 2093135
 
-Karina Aparecida Moura de Souza – 2093194
-
 Luana Alves de Alencar – 2096185
 
 Roberto Valença Montoni – 0564312
